@@ -1,0 +1,37 @@
+CODING CLASS NOTES FOR THE REACTNATIVE
+
+navigators:
+-drawernavigation
+-stack navigation
+-tabnavigation/bottomtabnavigator
+(container and navigator)
+-constructor-to initialize the state
+(they are use to switch between screens)
+*using the constructor i used this.state to create the defualt background color themes in the story telling app
+*using the firebase i was able to connect and be able to store books and the colorthemes using the component "Async"
+"return" fetches anything written within it returns it to 
+"render" whilst render displays it.
+"props" is the properties within the constructor
+"else" is a function that allows it to choose between the 2 functions that are available
+"&&" is a and operator that checks if all the conditions are true
+
+Components:
+-touchableopacity
+-view
+-Text
+-TextInput-different front Text component because you insert the the text
+-image
+(Using these compenents allow you to add images or buttons or allow different function,there must be a sort of style assigned to it for it to function)
+"?" is used and is called a tempory operator, which allows you to figureout or decide from the differnt fucntions 
+"ref" is also used to refer to the database
+"componentDidMount" is rendering the code
+"Unmount" removing 
+"updating" is changing the code
+
+styles:
+-fontsize
+-margintop
+-color
+-borderRadius
+(these all refer to the style in which you desgin your screens and where exactly you want the certain features on the screen.
+
